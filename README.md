@@ -95,5 +95,3 @@ This repository will be updated weekly with new tasks focusing on:
 Stay tuned! 🚀
 
 ---
-
-Let me know if you’d like a custom badge, a GitHub Pages deployment guide, or visuals (like a screenshot of the page) added to the README as well!
