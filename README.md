@@ -1,4 +1,3 @@
-Great! Based on your assignment and your repo's purpose (a tutorial hub for weekly tasks), here’s a **very descriptive and polished README** you can use. This README covers:
 
 1. An overview of the repository.
 2. Details of Week 1's assignment.
